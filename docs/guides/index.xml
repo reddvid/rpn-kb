@@ -9,15 +9,6 @@
     <copyright>Copyright (c) 2023 David Ballesteros</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:06:50 +0200</lastBuildDate><atom:link href="https://reddavid.me/rpn-kb/docs/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Standard Email Signature</title>
-      <link>https://reddavid.me/rpn-kb/docs/guides/standard-email-signature/</link>
-      <pubDate>Mon, 09 Oct 2023 11:39:20 +0800</pubDate>
-      
-      <guid>https://reddavid.me/rpn-kb/docs/guides/standard-email-signature/</guid>
-      <description>This guide is for Outlook for Web on a desktop/laptop computer. Once done in desktop browser, you can use it when using outlook web on a mobile phone.</description>
-    </item>
-    
-    <item>
       <title>Email Onboarding</title>
       <link>https://reddavid.me/rpn-kb/docs/guides/email-onboarding/</link>
       <pubDate>Mon, 09 Oct 2023 11:21:39 +0800</pubDate>
@@ -29,12 +20,12 @@ Your Credentials The IT Admin will provide your login information (email address
     </item>
     
     <item>
-      <title>Website Content Writing</title>
-      <link>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</link>
-      <pubDate>Mon, 09 Oct 2023 14:17:39 +0800</pubDate>
+      <title>Standard Email Signature</title>
+      <link>https://reddavid.me/rpn-kb/docs/guides/standard-email-signature/</link>
+      <pubDate>Mon, 09 Oct 2023 11:39:20 +0800</pubDate>
       
-      <guid>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</guid>
-      <description>In line with promoting our Digital Media, we are aiming for an optimized and better experience for our online audience. This new guidelines for news posting shall be observed and followed.</description>
+      <guid>https://reddavid.me/rpn-kb/docs/guides/standard-email-signature/</guid>
+      <description>This guide is for Outlook for Web on a desktop/laptop computer. Once done in desktop browser, you can use it when using outlook web on a mobile phone.</description>
     </item>
     
     <item>
@@ -48,6 +39,16 @@ Layouts Layout with Sidebar Layout without Sidebar Encoder Sources (minimum) Ima
     </item>
     
     <item>
+      <title>XSplit Time and Date Script</title>
+      <link>https://reddavid.me/rpn-kb/docs/guides/xsplit-time-and-date-script/</link>
+      <pubDate>Mon, 09 Oct 2023 13:18:17 +0800</pubDate>
+      
+      <guid>https://reddavid.me/rpn-kb/docs/guides/xsplit-time-and-date-script/</guid>
+      <description>This guide shows you how to add the standard time and date on RPN live stream
+Pre-Requisites This guide assumes that you already have two text sources for the time and date in your scene(s).</description>
+    </item>
+    
+    <item>
       <title>Scrolling Text in XSplit</title>
       <link>https://reddavid.me/rpn-kb/docs/guides/scrolling-text-in-xsplit/</link>
       <pubDate>Mon, 09 Oct 2023 13:35:12 +0800</pubDate>
@@ -57,13 +58,12 @@ Layouts Layout with Sidebar Layout without Sidebar Encoder Sources (minimum) Ima
     </item>
     
     <item>
-      <title>XSplit Time and Date Script</title>
-      <link>https://reddavid.me/rpn-kb/docs/guides/xsplit-time-and-date-script/</link>
-      <pubDate>Mon, 09 Oct 2023 13:18:17 +0800</pubDate>
+      <title>Website Content Writing</title>
+      <link>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</link>
+      <pubDate>Mon, 09 Oct 2023 14:17:39 +0800</pubDate>
       
-      <guid>https://reddavid.me/rpn-kb/docs/guides/xsplit-time-and-date-script/</guid>
-      <description>This guide shows you how to add the standard time and date on RPN live stream
-Pre-Requisites This guide assumes that you already have two text sources for the time and date in your scene(s).</description>
+      <guid>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</guid>
+      <description>In line with promoting our Digital Media, we are aiming for an optimized and better experience for our online audience. This new guidelines for news posting shall be observed and followed.</description>
     </item>
     
   </channel>

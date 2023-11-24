@@ -9,15 +9,6 @@
     <copyright>Copyright (c) 2023 David Ballesteros</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:33:54 +0200</lastBuildDate><atom:link href="https://reddavid.me/rpn-kb/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Standard Email Signature</title>
-      <link>https://reddavid.me/rpn-kb/docs/guides/standard-email-signature/</link>
-      <pubDate>Mon, 09 Oct 2023 11:39:20 +0800</pubDate>
-      
-      <guid>https://reddavid.me/rpn-kb/docs/guides/standard-email-signature/</guid>
-      <description>This guide is for Outlook for Web on a desktop/laptop computer. Once done in desktop browser, you can use it when using outlook web on a mobile phone.</description>
-    </item>
-    
-    <item>
       <title>Email Onboarding</title>
       <link>https://reddavid.me/rpn-kb/docs/guides/email-onboarding/</link>
       <pubDate>Mon, 09 Oct 2023 11:21:39 +0800</pubDate>
@@ -29,12 +20,12 @@ Your Credentials The IT Admin will provide your login information (email address
     </item>
     
     <item>
-      <title>Website Content Writing</title>
-      <link>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</link>
-      <pubDate>Mon, 09 Oct 2023 14:17:39 +0800</pubDate>
+      <title>Standard Email Signature</title>
+      <link>https://reddavid.me/rpn-kb/docs/guides/standard-email-signature/</link>
+      <pubDate>Mon, 09 Oct 2023 11:39:20 +0800</pubDate>
       
-      <guid>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</guid>
-      <description>In line with promoting our Digital Media, we are aiming for an optimized and better experience for our online audience. This new guidelines for news posting shall be observed and followed.</description>
+      <guid>https://reddavid.me/rpn-kb/docs/guides/standard-email-signature/</guid>
+      <description>This guide is for Outlook for Web on a desktop/laptop computer. Once done in desktop browser, you can use it when using outlook web on a mobile phone.</description>
     </item>
     
     <item>
@@ -48,15 +39,6 @@ Layouts Layout with Sidebar Layout without Sidebar Encoder Sources (minimum) Ima
     </item>
     
     <item>
-      <title>Scrolling Text in XSplit</title>
-      <link>https://reddavid.me/rpn-kb/docs/guides/scrolling-text-in-xsplit/</link>
-      <pubDate>Mon, 09 Oct 2023 13:35:12 +0800</pubDate>
-      
-      <guid>https://reddavid.me/rpn-kb/docs/guides/scrolling-text-in-xsplit/</guid>
-      <description>This will show you how to edit and update scroll text in XSplit by editing a .txt file instead of editing inside the software</description>
-    </item>
-    
-    <item>
       <title>XSplit Time and Date Script</title>
       <link>https://reddavid.me/rpn-kb/docs/guides/xsplit-time-and-date-script/</link>
       <pubDate>Mon, 09 Oct 2023 13:18:17 +0800</pubDate>
@@ -67,35 +49,41 @@ Pre-Requisites This guide assumes that you already have two text sources for the
     </item>
     
     <item>
-      <title>Digital Media Reporting (Part 6 - Social Media (YouTube))</title>
-      <link>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-6/</link>
-      <pubDate>Sat, 18 Nov 2023 00:53:53 +0800</pubDate>
+      <title>Scrolling Text in XSplit</title>
+      <link>https://reddavid.me/rpn-kb/docs/guides/scrolling-text-in-xsplit/</link>
+      <pubDate>Mon, 09 Oct 2023 13:35:12 +0800</pubDate>
       
-      <guid>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-6/</guid>
-      <description>Welcome to Part 6 of Digital Media Reporting.
-YouTube The easiest way to get each stations&amp;rsquo; current YouTube subscribers is to search manually BUT the values are abbreviated (e.</description>
+      <guid>https://reddavid.me/rpn-kb/docs/guides/scrolling-text-in-xsplit/</guid>
+      <description>This will show you how to edit and update scroll text in XSplit by editing a .txt file instead of editing inside the software</description>
     </item>
     
     <item>
-      <title>Digital Media Reporting (Part 5 - Social Media (Facebook))</title>
-      <link>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-5/</link>
-      <pubDate>Sat, 18 Nov 2023 00:32:34 +0800</pubDate>
+      <title>Website Content Writing</title>
+      <link>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</link>
+      <pubDate>Mon, 09 Oct 2023 14:17:39 +0800</pubDate>
       
-      <guid>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-5/</guid>
-      <description>This is Part 5 of Digital Media Reporting.
-Facebook Business Navigate and Log in to https://business.facebook.com/.
-You should now see a master-detail page with the current station selected on the left sidebar.</description>
+      <guid>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</guid>
+      <description>In line with promoting our Digital Media, we are aiming for an optimized and better experience for our online audience. This new guidelines for news posting shall be observed and followed.</description>
     </item>
     
     <item>
-      <title>Digital Media Reporting (Part 4 - Social Media (Main Accounts))</title>
-      <link>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-4/</link>
-      <pubDate>Sat, 18 Nov 2023 00:18:30 +0800</pubDate>
+      <title>Digital Media Reporting (Part 1 - Website Analytics)</title>
+      <link>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-1/</link>
+      <pubDate>Fri, 17 Nov 2023 23:07:41 +0800</pubDate>
       
-      <guid>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-4/</guid>
-      <description>This is the Part 4 of Digital Media Reporting.
-Click the Links Navigate to https://rpnradio.com.
-You should be able to see the red-colored band on the header containing the icons of several social media sites.</description>
+      <guid>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-1/</guid>
+      <description>Let&amp;rsquo;s get you started on the how to view, analyze, and report the website.
+This is not a tutorial how to use Excel or Word</description>
+    </item>
+    
+    <item>
+      <title>Digital Media Reporting (Part 2 - Website Posts)</title>
+      <link>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-2/</link>
+      <pubDate>Fri, 17 Nov 2023 23:37:20 +0800</pubDate>
+      
+      <guid>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-2/</guid>
+      <description>This is the Part 2 of Digital Media Reporting.
+Login to WordPress Admin Panel Navigate and login to the RPN WordPress admin panel.</description>
     </item>
     
     <item>
@@ -107,6 +95,17 @@ You should be able to see the red-colored band on the header containing the icon
       <description>This is the Part 3 of Digital Media Reporting.
 Login to CentovaCast Admin Panel Navigate and login to http://88.198.70.25/login/index.php.
 Reporting You should now be seeing the Accounts List on Account Management</description>
+    </item>
+    
+    <item>
+      <title>Digital Media Reporting (Part 4 - Social Media (Main Accounts))</title>
+      <link>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-4/</link>
+      <pubDate>Sat, 18 Nov 2023 00:18:30 +0800</pubDate>
+      
+      <guid>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-4/</guid>
+      <description>This is the Part 4 of Digital Media Reporting.
+Click the Links Navigate to https://rpnradio.com.
+You should be able to see the red-colored band on the header containing the icons of several social media sites.</description>
     </item>
     
   </channel>
