@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guides on RPN Knowledge Base</title>
-    <link>/rpn-kb/docs/guides/</link>
+    <link>rpn-kb/docs/guides/</link>
     <description>Recent content in Guides on RPN Knowledge Base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2023 David Ballesteros</copyright>
-    <lastBuildDate>Thu, 07 Sep 2023 16:06:50 +0200</lastBuildDate><atom:link href="/rpn-kb/docs/guides/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 16:06:50 +0200</lastBuildDate><atom:link href="rpn-kb/docs/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Standard Email Signature</title>
-      <link>/rpn-kb/docs/guides/standard-email-signature/</link>
+      <link>rpn-kb/docs/guides/standard-email-signature/</link>
       <pubDate>Mon, 09 Oct 2023 11:39:20 +0800</pubDate>
       
-      <guid>/rpn-kb/docs/guides/standard-email-signature/</guid>
+      <guid>rpn-kb/docs/guides/standard-email-signature/</guid>
       <description>This guide is for Outlook for Web on a desktop/laptop computer. Once done in desktop browser, you can use it when using outlook web on a mobile phone.</description>
     </item>
     
     <item>
       <title>Email Onboarding</title>
-      <link>/rpn-kb/docs/guides/email-onboarding/</link>
+      <link>rpn-kb/docs/guides/email-onboarding/</link>
       <pubDate>Mon, 09 Oct 2023 11:21:39 +0800</pubDate>
       
-      <guid>/rpn-kb/docs/guides/email-onboarding/</guid>
+      <guid>rpn-kb/docs/guides/email-onboarding/</guid>
       <description>👋 Hi and Welcome to Radio Philippines Network!
 Let&amp;rsquo;s get you started with your business email.
 Your Credentials The IT Admin will provide your login information (email address and temporary password).</description>
@@ -30,38 +30,38 @@ Your Credentials The IT Admin will provide your login information (email address
     
     <item>
       <title>Website Content Writing</title>
-      <link>/rpn-kb/docs/guides/website-content-writing/</link>
+      <link>rpn-kb/docs/guides/website-content-writing/</link>
       <pubDate>Mon, 09 Oct 2023 14:17:39 +0800</pubDate>
       
-      <guid>/rpn-kb/docs/guides/website-content-writing/</guid>
+      <guid>rpn-kb/docs/guides/website-content-writing/</guid>
       <description>In line with promoting our Digital Media, we are aiming for an optimized and better experience for our online audience. This new guidelines for news posting shall be observed and followed.</description>
     </item>
     
     <item>
       <title>Video Stream Layout</title>
-      <link>/rpn-kb/docs/guides/video-stream-layout/</link>
+      <link>rpn-kb/docs/guides/video-stream-layout/</link>
       <pubDate>Mon, 09 Oct 2023 13:49:33 +0800</pubDate>
       
-      <guid>/rpn-kb/docs/guides/video-stream-layout/</guid>
+      <guid>rpn-kb/docs/guides/video-stream-layout/</guid>
       <description>Standards as of October 10, 2023
 Layouts Layout with Sidebar Layout without Sidebar Encoder Sources (minimum) Image Sources RPN Logo Background Text Sources Date Time Title Subtitle (Announcer/Hotline) Scroll Image slideshow Ads/Spots Social Media Layout Standards Title Standards Font: Lato Black Color: Black Subtitle Standards Font: Lato Black Color: Red Date Stamp Standards Format: MMM DD, YYYY</description>
     </item>
     
     <item>
       <title>Scrolling Text in XSplit</title>
-      <link>/rpn-kb/docs/guides/scrolling-text-in-xsplit/</link>
+      <link>rpn-kb/docs/guides/scrolling-text-in-xsplit/</link>
       <pubDate>Mon, 09 Oct 2023 13:35:12 +0800</pubDate>
       
-      <guid>/rpn-kb/docs/guides/scrolling-text-in-xsplit/</guid>
+      <guid>rpn-kb/docs/guides/scrolling-text-in-xsplit/</guid>
       <description>This will show you how to edit and update scroll text in XSplit by editing a .txt file instead of editing inside the software</description>
     </item>
     
     <item>
       <title>XSplit Time and Date Script</title>
-      <link>/rpn-kb/docs/guides/xsplit-time-and-date-script/</link>
+      <link>rpn-kb/docs/guides/xsplit-time-and-date-script/</link>
       <pubDate>Mon, 09 Oct 2023 13:18:17 +0800</pubDate>
       
-      <guid>/rpn-kb/docs/guides/xsplit-time-and-date-script/</guid>
+      <guid>rpn-kb/docs/guides/xsplit-time-and-date-script/</guid>
       <description>This guide shows you how to add the standard time and date on RPN live stream
 Pre-Requisites This guide assumes that you already have two text sources for the time and date in your scene(s).</description>
     </item>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RPN Knowledge Base</title>
-    <link>/rpn-kb/tags/</link>
+    <link>rpn-kb/tags/</link>
     <description>Recent content in Tags on RPN Knowledge Base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright (c) 2023 David Ballesteros</copyright><atom:link href="/rpn-kb/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (c) 2023 David Ballesteros</copyright><atom:link href="rpn-kb/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
