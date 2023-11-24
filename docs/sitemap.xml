@@ -2,86 +2,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>rpn-kb/docs/admin/</loc>
+      <loc>/docs/admin/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>rpn-kb/docs/guides/</loc>
+      <loc>/docs/guides/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>rpn-kb/docs/admin/digital-media-reporting-part-6/</loc>
+        <loc>/docs/admin/digital-media-reporting-part-6/</loc>
         <lastmod>2023-11-18T00:53:53+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/admin/digital-media-reporting-part-5/</loc>
+        <loc>/docs/admin/digital-media-reporting-part-5/</loc>
         <lastmod>2023-11-18T00:32:34+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/admin/digital-media-reporting-part-4/</loc>
+        <loc>/docs/admin/digital-media-reporting-part-4/</loc>
         <lastmod>2023-11-18T00:18:30+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/admin/digital-media-reporting-part-3/</loc>
+        <loc>/docs/admin/digital-media-reporting-part-3/</loc>
         <lastmod>2023-11-17T23:53:32+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/admin/digital-media-reporting-part-2/</loc>
+        <loc>/docs/admin/digital-media-reporting-part-2/</loc>
         <lastmod>2023-11-17T23:37:20+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/admin/digital-media-reporting-part-1/</loc>
+        <loc>/docs/admin/digital-media-reporting-part-1/</loc>
         <lastmod>2023-11-17T23:07:41+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/guides/standard-email-signature/</loc>
+        <loc>/docs/guides/standard-email-signature/</loc>
         <lastmod>2023-10-09T11:39:20+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/guides/email-onboarding/</loc>
+        <loc>/docs/guides/email-onboarding/</loc>
         <lastmod>2023-10-09T11:21:39+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/guides/website-content-writing/</loc>
+        <loc>/docs/guides/website-content-writing/</loc>
         <lastmod>2023-10-09T14:17:39+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/guides/video-stream-layout/</loc>
+        <loc>/docs/guides/video-stream-layout/</loc>
         <lastmod>2023-10-09T13:49:33+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/guides/scrolling-text-in-xsplit/</loc>
+        <loc>/docs/guides/scrolling-text-in-xsplit/</loc>
         <lastmod>2023-10-09T13:35:12+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>rpn-kb/docs/guides/xsplit-time-and-date-script/</loc>
+        <loc>/docs/guides/xsplit-time-and-date-script/</loc>
         <lastmod>2023-10-09T13:18:17+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

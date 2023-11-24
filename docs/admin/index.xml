@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Admin on RPN Knowledge Base</title>
-    <link>rpn-kb/docs/admin/</link>
+    <link>/docs/admin/</link>
     <description>Recent content in Admin on RPN Knowledge Base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2023 David Ballesteros</copyright>
-    <lastBuildDate>Thu, 07 Sep 2023 16:06:50 +0200</lastBuildDate><atom:link href="rpn-kb/docs/admin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 16:06:50 +0200</lastBuildDate><atom:link href="/docs/admin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Media Reporting (Part 6 - Social Media (YouTube))</title>
-      <link>rpn-kb/docs/admin/digital-media-reporting-part-6/</link>
+      <link>/docs/admin/digital-media-reporting-part-6/</link>
       <pubDate>Sat, 18 Nov 2023 00:53:53 +0800</pubDate>
       
-      <guid>rpn-kb/docs/admin/digital-media-reporting-part-6/</guid>
+      <guid>/docs/admin/digital-media-reporting-part-6/</guid>
       <description>Welcome to Part 6 of Digital Media Reporting.
 YouTube The easiest way to get each stations&amp;rsquo; current YouTube subscribers is to search manually BUT the values are abbreviated (e.</description>
     </item>
     
     <item>
       <title>Digital Media Reporting (Part 5 - Social Media (Facebook))</title>
-      <link>rpn-kb/docs/admin/digital-media-reporting-part-5/</link>
+      <link>/docs/admin/digital-media-reporting-part-5/</link>
       <pubDate>Sat, 18 Nov 2023 00:32:34 +0800</pubDate>
       
-      <guid>rpn-kb/docs/admin/digital-media-reporting-part-5/</guid>
+      <guid>/docs/admin/digital-media-reporting-part-5/</guid>
       <description>This is Part 5 of Digital Media Reporting.
 Facebook Business Navigate and Log in to https://business.facebook.com/.
 You should now see a master-detail page with the current station selected on the left sidebar.</description>
@@ -31,10 +31,10 @@ You should now see a master-detail page with the current station selected on the
     
     <item>
       <title>Digital Media Reporting (Part 4 - Social Media (Main Accounts))</title>
-      <link>rpn-kb/docs/admin/digital-media-reporting-part-4/</link>
+      <link>/docs/admin/digital-media-reporting-part-4/</link>
       <pubDate>Sat, 18 Nov 2023 00:18:30 +0800</pubDate>
       
-      <guid>rpn-kb/docs/admin/digital-media-reporting-part-4/</guid>
+      <guid>/docs/admin/digital-media-reporting-part-4/</guid>
       <description>This is the Part 4 of Digital Media Reporting.
 Click the Links Navigate to https://rpnradio.com.
 You should be able to see the red-colored band on the header containing the icons of several social media sites.</description>
@@ -42,10 +42,10 @@ You should be able to see the red-colored band on the header containing the icon
     
     <item>
       <title>Digital Media Reporting (Part 3 - Audio Streaming)</title>
-      <link>rpn-kb/docs/admin/digital-media-reporting-part-3/</link>
+      <link>/docs/admin/digital-media-reporting-part-3/</link>
       <pubDate>Fri, 17 Nov 2023 23:53:32 +0800</pubDate>
       
-      <guid>rpn-kb/docs/admin/digital-media-reporting-part-3/</guid>
+      <guid>/docs/admin/digital-media-reporting-part-3/</guid>
       <description>This is the Part 3 of Digital Media Reporting.
 Login to CentovaCast Admin Panel Navigate and login to http://88.198.70.25/login/index.php.
 Reporting You should now be seeing the Accounts List on Account Management</description>
@@ -53,20 +53,20 @@ Reporting You should now be seeing the Accounts List on Account Management</desc
     
     <item>
       <title>Digital Media Reporting (Part 2 - Website Posts)</title>
-      <link>rpn-kb/docs/admin/digital-media-reporting-part-2/</link>
+      <link>/docs/admin/digital-media-reporting-part-2/</link>
       <pubDate>Fri, 17 Nov 2023 23:37:20 +0800</pubDate>
       
-      <guid>rpn-kb/docs/admin/digital-media-reporting-part-2/</guid>
+      <guid>/docs/admin/digital-media-reporting-part-2/</guid>
       <description>This is the Part 2 of Digital Media Reporting.
 Login to WordPress Admin Panel Navigate and login to the RPN WordPress admin panel.</description>
     </item>
     
     <item>
       <title>Digital Media Reporting (Part 1 - Website Analytics)</title>
-      <link>rpn-kb/docs/admin/digital-media-reporting-part-1/</link>
+      <link>/docs/admin/digital-media-reporting-part-1/</link>
       <pubDate>Fri, 17 Nov 2023 23:07:41 +0800</pubDate>
       
-      <guid>rpn-kb/docs/admin/digital-media-reporting-part-1/</guid>
+      <guid>/docs/admin/digital-media-reporting-part-1/</guid>
       <description>Let&amp;rsquo;s get you started on the how to view, analyze, and report the website.
 This is not a tutorial how to use Excel or Word</description>
     </item>
