@@ -58,6 +58,16 @@ Pre-Requisites This guide assumes that you already have two text sources for the
     </item>
     
     <item>
+      <title>Audio Stream Setup</title>
+      <link>https://reddavid.me/rpn-kb/docs/guides/audio-stream-setup/</link>
+      <pubDate>Sat, 25 Nov 2023 11:50:27 +0800</pubDate>
+      
+      <guid>https://reddavid.me/rpn-kb/docs/guides/audio-stream-setup/</guid>
+      <description>Welcome to the tutorial how to setup your audio programs to stream online to internet server.
+There are two ways to stream online: 1) WinAmp + ShoutCast Encoder, and 2) butt (Broadcast Using This Tool)</description>
+    </item>
+    
+    <item>
       <title>Website Content Writing</title>
       <link>https://reddavid.me/rpn-kb/docs/guides/website-content-writing/</link>
       <pubDate>Mon, 09 Oct 2023 14:17:39 +0800</pubDate>
@@ -95,17 +105,6 @@ Login to WordPress Admin Panel Navigate and login to the RPN WordPress admin pan
       <description>This is the Part 3 of Digital Media Reporting.
 Login to CentovaCast Admin Panel Navigate and login to http://88.198.70.25/login/index.php.
 Reporting You should now be seeing the Accounts List on Account Management</description>
-    </item>
-    
-    <item>
-      <title>Digital Media Reporting (Part 4 - Social Media (Main Accounts))</title>
-      <link>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-4/</link>
-      <pubDate>Sat, 18 Nov 2023 00:18:30 +0800</pubDate>
-      
-      <guid>https://reddavid.me/rpn-kb/docs/admin/digital-media-reporting-part-4/</guid>
-      <description>This is the Part 4 of Digital Media Reporting.
-Click the Links Navigate to https://rpnradio.com.
-You should be able to see the red-colored band on the header containing the icons of several social media sites.</description>
     </item>
     
   </channel>
