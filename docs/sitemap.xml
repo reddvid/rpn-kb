@@ -122,4 +122,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
+      <url>
+        <loc>https://reddavid.me/rpn-kb/docs/guides/use-3d-logo-in-xsplit-and-obs/</loc>
+        <lastmod>2023-12-12T12:54:50+08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
       </urlset>
